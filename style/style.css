@@ -19,6 +19,18 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
         width: 100%;
     }
 
+
+
+
+    .title{
+    /*	text-align: center;*/
+    	/*margin-top: 30px;*/
+    	font-size: 3rem;
+    	margin-bottom: 40px;
+    	margin-top: 0;
+    }
+
+
 		/*FLEX PRACTICE*/
 		section {
 		  max-width: 1200px;
