@@ -373,6 +373,15 @@ ul.main-nav a:hover {
 		padding-top: 25%;
 	}
 
+	iframe{
+		width: 80%;
+	}
+
+	textarea{
+		width: 90%;
+	}
+
+
 	@media (max-width: 500px) {
   .wrapper{
   	max-width: 940px;
