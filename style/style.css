@@ -360,4 +360,34 @@ ul.main-nav a:hover {
 		font-size: 3rem;
 		padding-top: 25%;
 	}
+
+	@media (max-width: 500px) {
+  .wrapper{
+  	max-width: 940px;
+  }
+
+  .for-mobile{
+  	display: flex;
+  	flex-direction: column;
+  }
+
+  .first{
+  	order: -1;
+  }
+
+  .second{
+  	order: 1;
+  }
+
+  .column{
+  	flex-basis: 0;
+  }
+
+
+
+	}
+
+
+
+
 }
