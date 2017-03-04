@@ -334,6 +334,18 @@ ul.main-nav a:hover {
 
 @media (max-width: 767px) {
 
+	
+
+	#nav_bar {
+/*		display: flex;
+		align-items: center;*/
+		justify-content: flex-start;
+/*		align-content: space-around;
+		background-color: white;
+		padding-top: 20px;
+		padding-bottom: 20px;*/
+	}
+
 	.wrapper{
 		max-width: 767px}
 	}
