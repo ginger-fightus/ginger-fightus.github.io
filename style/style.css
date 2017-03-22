@@ -259,26 +259,6 @@ ul.main-nav a:hover {
 	flex-basis: 0;
 }
 
-/*.first{
-	display: flex;
-	flex-direction: column;
-	flex-basis: auto;
-	flex-grow: 1;
-	order: -1;
-	margin-bottom: 10%;
-	justify-content: center;
-	text-align: center;
-*/
-}
-
-/*.second{
-	display: flex;
-	flex-direction: column;
-	flex-grow: 1;
-		flex-basis: auto;
-	order: 1;
-	margin-bottom: 20%
-}*/
 
 img{
 	max-width: 90%;
@@ -337,13 +317,7 @@ ul.main-nav a:hover {
 	
 
 	#nav_bar {
-/*		display: flex;
-		align-items: center;*/
 		justify-content: flex-start;
-/*		align-content: space-around;
-		background-color: white;
-		padding-top: 20px;
-		padding-bottom: 20px;*/
 	}
 
 	.wrapper{
@@ -372,6 +346,8 @@ ul.main-nav a:hover {
 		font-size: 3rem;
 		padding-top: 25%;
 	}
+
+	
 
 	iframe{
 	 width: 360px; 
